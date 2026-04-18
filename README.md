@@ -76,7 +76,7 @@ print("Variance= ",variance)
 
 
 # Output : 
-<img width="600" height="400" alt="correct_output" src="https://github.com/user-attachments/assets/0e160c92-d4ee-4d20-a3c3-8d6969fffced" />
+<img width="600" height="400" alt="user_requested_output" src="https://github.com/user-attachments/assets/2a994aff-0ee3-4f79-9c37-297ea256b9ad" />
 
 
 # Results :
