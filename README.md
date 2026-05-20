@@ -78,7 +78,8 @@ print("Variance= ",variance)
 
 
 # Output : 
-<img width="600" height="400" alt="user_requested_output" src="https://github.com/user-attachments/assets/2a994aff-0ee3-4f79-9c37-297ea256b9ad" />
+<img width="742" height="303" alt="image" src="https://github.com/user-attachments/assets/dc633f92-dae5-4353-bb9e-1b1cdd48be07" />
+
 
 
 # Results :
